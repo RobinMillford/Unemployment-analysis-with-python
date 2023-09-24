@@ -1,6 +1,6 @@
 **Project Title:** Unemployment analysis with python
 
-![Alt Text](https://github.com/RobinMillford/OIB-SIP/blob/main/Unemployment%20analysis%20with%20python/unemployment_jpg.png)
+![Alt Text](https://github.com/RobinMillford/OIBSIP_TASK2/blob/main/unemployment_jpg.png)
 
 **Project Summary:**
 
